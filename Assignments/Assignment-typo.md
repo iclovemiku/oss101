@@ -402,7 +402,7 @@ In Web forums, you may also be told to search the forum archives. In fact, someo
 
 Often, the person telling you to do a search has the manual or the web page with the information you need open, and is looking at it as he or she types. These replies mean that the responder thinks (a) the information you need is easy to find, and (b) you will learn more if you seek out the information than if you have it spoon-fed to you.
 
-You shouldn't be offended by this; by hacker standards, your respndent is showing you a rough kind of respect simply by not ignoring you. You should instead be thankful for this grandmotherly kindness.
+You shouldn't be offended by this; by hacker standards, your respendent is showing you a rough kind of respect simply by not ignoring you. You should instead be thankful for this grandmotherly kindness.
 
 ### If you don't understand...
 
@@ -550,7 +550,7 @@ For popular software like Linux, there are at least 10,000 users per developer. 
 
 *If you can't help, don't hinder.* Don't make jokes about procedures that could trash the user's setup --- the poor sap might interpret these as instructions.
 
-*Ask probing questions to elicit more details.* If you're good at this, thequerent will learn something --- and so might you. Try to turn the bad question into a good one; remember we were all newbies once.
+*Ask probing questions to elicit more details.* If you're good at this, the querent will learn something --- and so might you. Try to turn the bad question into a good one; remember we were all newbies once.
 
 While muttering RTFM is sometimes justified when rezplying to someone who is just a lazy slob, a pointer to documentation (even if it's just a suggestion to google for a key phrase) is better.
 
